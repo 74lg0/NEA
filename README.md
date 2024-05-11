@@ -68,3 +68,13 @@ Furthermore, there are other Malwares, such as:
 [1] viking.apk
 [2] forkbomb.apk  
 ```
+*I would greatly appreciate it if you could inform me of any errors in the program or possible improvements in my social media:*
+
+<img src='https://github.com/74lg0/PyMalwareOS/assets/111157836/65fb859b-450a-421d-aa8b-fb25c74652c5'  height='50' width='50'> *[Twitter] https://twitter.com/74lg0*
+
+<img src='https://github.com/74lg0/PyMalwareOS/assets/111157836/8e76c3f2-3a23-466b-a965-3816c51e8b34' height='50' width='50'>  *[TikTok] https://tiktok.com/@74lg0*
+
+<img src='https://github.com/74lg0/PyMalwareOS/assets/111157836/c7a9f83c-c9c9-4ca2-a6c7-704ea2512331' height='50' width='50'> *[GitHub] https://github.com/74lg0*
+
+
+*[Discord Server] https://discord.com/channels/1231050275876507668/1231050276559917058*
